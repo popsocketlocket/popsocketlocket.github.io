@@ -4,8 +4,9 @@
     <title>Hello World!</title>
   </head>
   
-  <body>
-    Hello world.
-  </body>
+<?php 
+  
+  echo "Hello world.";
+  ?>
   
 </html>
